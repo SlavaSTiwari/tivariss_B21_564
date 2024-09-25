@@ -1,0 +1,42 @@
+phrase:      еңбекетсеңерінбей,тоядықарныңтіленбей
+detected:    еңбекеiсеңерінбей,тояллқарныңтілcнбей
+correct:     89%
+
+has | got | correct
+е	е	True
+ң	ң	True
+б	б	True
+е	е	True
+к	к	True
+е	е	True
+т	і	False
+с	с	True
+е	е	True
+ң	ң	True
+е	е	True
+р	р	True
+і	і	True
+н	н	True
+б	б	True
+е	е	True
+й	й	True
+,	,	True
+т	т	True
+о	о	True
+я	л	False
+д	л	False
+ы	ы	True
+қ	қ	True
+а	а	True
+р	р	True
+н	н	True
+ы	ы	True
+ң	ң	True
+т	т	True
+і	і	True
+л	л	True
+е	с	False
+н	н	True
+б	б	True
+е	е	True
+й	й	True

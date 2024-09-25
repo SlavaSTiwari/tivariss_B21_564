@@ -1,0 +1,14 @@
+letter_a:
+	Max Frequency: 21920.80078125
+	Min Frequency: 0.0
+	Most timbral colored basic tone: 720. This is the frequency for which the largest number of overtones can be traced
+	three strongest formants for the sounds : [np.float64(5340.234375), np.float64(4823.4375), np.float64(4995.703125)]. These are the frequencies with the highest energy in the region
+letter_i:
+	Max Frequency: 8204.150390625
+	Min Frequency: 0.0
+	Most timbral colored basic tone: 612. This is the frequency for which the largest number of overtones can be traced
+	three strongest formants for the sounds : [np.float64(2411.71875), np.float64(1378.125), np.float64(1205.859375)]. These are the frequencies with the highest energy in the region
+bark:
+	Max Frequency: 9431.54296875
+	Min Frequency: 0.0
+	Most timbral colored basic tone: 197. This is the frequency for which the largest number of overtones can be traced
